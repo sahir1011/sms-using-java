@@ -45,5 +45,3 @@ java -cp out com.example.sms.Main
 - Sorting & filtering options  
 - REST API using Spring Boot  
 
-## License
-MIT License
